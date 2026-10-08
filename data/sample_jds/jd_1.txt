@@ -1,0 +1,32 @@
+Generative AI Engineer - Fresher
+TantranZm
+
+Location: India
+Job Type: Full-Time
+Remote
+
+Experience: 0-1 Year
+
+Job Description
+We are looking for a motivated Generative AI Engineer - Fresher to join our technology team. The ideal candidate should have a strong foundation in Python, AI/ML concepts and an interest in Generative AI, Large Language Models (LLMs) and AI application development.
+
+Key Responsibilities
+- Assist in developing and testing Generative AI and AI/ML applications.
+- Work with LLMs, prompt engineering, embeddings, and AI APIs.
+- Support the development of AI-powered solutions using Python and relevant frameworks.
+- Assist in building and testing prompts, workflows, and AI use cases.
+- Work with structured and unstructured data for AI applications.
+- Collaborate with senior developers and AI/ML teams on assigned projects.
+- Troubleshoot issues, document solutions, and support testing and deployment.
+
+Requirements
+- Bachelor's degree in Computer Science, Information Technology, Artificial Intelligence, Data Science, or a related field.
+- 0-1 year of experience; fresh graduates with relevant academic projects are encouraged to apply.
+- Basic knowledge of Python and programming fundamentals.
+- Understanding of AI/ML and Generative AI concepts.
+- Familiarity with LLMs, prompt engineering, or AI APIs is an advantage.
+- Basic understanding of APIs, databases, and software development concepts.
+- Strong analytical, problem-solving, and communication skills.
+
+Preferred Skills
+Python, Generative AI, Artificial Intelligence, Machine Learning, LLMs, Prompt Engineering, AI APIs, REST APIs, Git, and basic cloud concepts.
